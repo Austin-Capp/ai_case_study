@@ -29,6 +29,22 @@
 
 ## Landscape
 
+# What field is the company in? The information gathered with globaldata.com; "Amazon operates primarily in the online retail industry, providing a wide range of products including apparel, electronics, groceries, and more. Additionally, it offers services such as cloud computing through its subsidiary, Amazon Web Services (AWS)."
+
+# What have been the major trends and innovations of this field over the last 5&ndash;10 years? The gathered information from forbes.com; "Over the last decade, Amazon has seen a significant shift in its business model, with third-party sellers now representing 60% of total sales, up from 40% ten years ago. Innovations include the introduction of services like Fulfillment by Amazon, which supports sellers in managing their inventory and shipping, and the development of advanced robotics, such as the Sparrow robot, to streamline the fulfillment process."
+
+# What are the other major companies in this field? From the gathered information from, sellersnap.io and girolino.com; "Amazon operates in various fields, including e-commerce, cloud computing, and digital streaming. Major competitors in these sectors include eBay, which dominates the online auction space, and Walmart, which leads in physical retail but competes with Amazon in the online marketplace."
+
+## Results
+
+# What has been the business impact of this company so far? Information sellersnap.io gathered; Amazon has significantly altered the retail landscape, becoming a dominant force in eCommerce with net sales increasing by 11% from $121.2 billion in Q2 of 2022 to $134.4 billion in Q2 of 2023. While it has provided a platform for nearly 2 million small and medium-sized businesses to reach broader audiences, there are concerns that its dominance may be harming traditional retail competition.
+
+# What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Information gathered from sellerapp.com and danalyser.com; "Core metrics that companies in the e-commerce field, including Amazon, use to measure success include sales revenue, conversion rate, customer satisfaction, and account health metrics. These metrics provide insights into financial performance, the effectiveness of product listings, and overall seller compliance, which are crucial for optimizing business strategies and improving sales. Amazon's performance is heavily influenced by these metrics, as they help sellers track their efforts, identify areas for improvement, and ensure compliance with Amazon's high standards for customer satisfaction."
+
+# How is your company performing relative to competitors in the same field? The gathered information from sellbery.com and junglescout.com; "Amazon is a dominant player in the e-commerce market, but it faces significant competition from nearly 2,000 new sellers joining the platform daily. To stay competitive, businesses must conduct thorough Amazon competitor analysis to understand competitors' pricing strategies, marketing efforts, and customer feedback, which can help refine their own approaches and improve performance."
+
+## Recommendations
+
 # 
 
 # 
@@ -61,21 +77,29 @@
 
 # Source 12: “Generative Artificial Intelligence.” Wikipedia, 4 Nov. 2023, en.wikipedia.org/wiki/Generative_artificial_intelligence#History.
 
-# Source 13: 
+# Source 13: Global Data. “Amazon.com Inc: Overview.” Www.globaldata.com, 2023, www.globaldata.com/company-profile/amazoncom-inc/.
 
-# Source 14: 
+# Source 14: Loeb, Walter. “Drastic Changes at Amazon.” Forbes, 22 Sept. 2023, www.forbes.com/sites/walterloeb/2023/09/22/drastic-changes-at-amazon/.
 
-# Source 15: 
+# Source 15: Ayala, Junel. “Here Are the Top Amazon Competitors from around the Globe and Other Competitors from Non-ECommerce Sectors.” Seller Snap, 14 Aug. 2023, www.sellersnap.io/top-amazon-competitors-ecommerce-and-non-ecommerce/.
 
-# Source 16: 
+# Source 16: Lino, Giro. “The Top Amazon Companies You Need to Know: A Comprehensive Guide.” Giro’s Newsletter, Giro’s Newsletter, 9 Sept. 2024, www.girolino.com/the-top-amazon-companies-you-need-to-know-a-comprehensive-guide/. Accessed 19 Oct. 2024.
 
-# Source 17: 
+# Source 17: Ayala, Junel. “The Impact of Amazon to Small and Medium-Sized Businesses.” Seller Snap, 6 Oct. 2020, www.sellersnap.io/amazon-impact-small-businesses/.
 
-# Source 18: 
+# Source 18: eCommerce, Jeniffer Alexander Jeniffer Alexander is a content writer at SellerApp She writes about, et al. An Advertiser’s Guide to Amazon Seller Metrics. 24 Nov. 2023, www.sellerapp.com/blog/amazon-seller-metrics/.
 
-# Source 19: 
+# Source 19: Chan, Sin Ling. “10 Key Metrics to Track for Amazon Business Success.” Danalyser, 30 May 2023, danalyser.com/blogs/ecommerce-analytics/key-metrics-to-track-for-amazon-business-success?srsltid=AfmBOopC6bcRIkkmeWWhzKStaKqgKDGw2tZf3ixBMIYNgEfSlxxsl-Xi. Accessed 19 Oct. 2024.
 
-# Source 20: 
+# Source 20: admin. “The Complete Guide to Amazon Competitor Analysis.” Sellbery, 11 Apr. 2023, sellbery.com/blog/the-complete-guide-to-amazon-competitor-analysis/.
+
+# Source 21: Connolly, Brian. “Amazon Seller Competitor Analysis - 2024 Step-By-Step Guide.” Jungle Scout, Jungle Scout, 22 Nov. 2023, www.junglescout.com/resources/articles/amazon-competitor-analysis/.
+
+# Source 22: 
+
+# Source 23: 
+
+# Source 24: 
 
 
 
