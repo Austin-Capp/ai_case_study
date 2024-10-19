@@ -25,6 +25,14 @@
 
 # What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) According to the websites, progress.com and thesumagazine.org; "Amazon offers a broader product assortment through its marketplace, where nearly 50 percent of units sold are from third-party sellers. This extensive selection, combined with competitive pricing and superior customer service features like one-click ordering and Prime membership benefits, gives Amazon a significant edge over traditional retailers."
 
+# Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) According to aboutamazon.com the gather information shares that; "Amazon is currently using advanced technologies such as robotics and artificial intelligence (AI) to enhance its operations. For instance, they have introduced Sparrow, an intelligent robotic system that streamlines the fulfillment process by moving individual products before packaging, and they utilize generative AI to improve customer experiences, such as creating engaging advertisements and optimizing product listings."
+
+## Landscape
+
+# 
+
+# 
+
 # 
 
 ## Sources
