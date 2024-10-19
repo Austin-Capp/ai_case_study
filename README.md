@@ -45,11 +45,13 @@
 
 ## Recommendations
 
-# 
+# If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) I would probably recommend that Amazon makes it to where, depending on what the user consistantly looks at in the catagories while shopping, they make it to where that item or similar items appear more often for them instead of having to look for it again. In addition, when user looks at many different items as they shop, a set of catagories will appear when they log into Amazon and they will be greeted with seperate catagoies of the item they bought with smiliar items with it but in different collums.
 
-# 
+# Why do you think that offering this product or service would benefit the company? It will benefit it by giving the user easier and faster access to the items looked at before instead of having to go and search them up again. Amazon will recieve more and more positive reviews over time about that feature. 
 
-# 
+# What technologies would this additional product or service utilize? This should include using AI for them to be able to put into play for this feature. It would be easier for them create, besides they already use AI.
+
+# Why are these technologies appropriate for your solution? Putting features in like the one I explained, would require to use AI for it, mainly making it super easy to create using AI. It would analyze the uzers purchases and searches seeing what they are interested in and then provide those items in seperate catagories in collums on the front page for them when they log in. 
 
 ## Sources
 
