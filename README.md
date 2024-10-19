@@ -97,12 +97,6 @@
 
 # Source 21: Connolly, Brian. “Amazon Seller Competitor Analysis - 2024 Step-By-Step Guide.” Jungle Scout, Jungle Scout, 22 Nov. 2023, www.junglescout.com/resources/articles/amazon-competitor-analysis/.
 
-# Source 22: 
-
-# Source 23: 
-
-# Source 24: 
-
 
 
 
